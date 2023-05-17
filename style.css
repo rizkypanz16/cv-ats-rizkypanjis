@@ -2,3 +2,7 @@
     width: 102px;
     height: auto;
 }
+a.no-underline {
+    text-decoration: none;
+    color: black;
+  }
